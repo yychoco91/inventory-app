@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# inventory-app
+Inventory app to keep track of where items are at home 📦
 
 ## Available Scripts
 
